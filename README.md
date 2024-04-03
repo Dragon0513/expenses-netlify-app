@@ -1,6 +1,6 @@
 # Remix.js expenses tracker web application
 
-This repository is a web application expense tracker created with Remix.js, Typescript, Prisma, and MongoDB.
+This repository is a simple web application expense tracker created with Remix.js, Typescript, Prisma, and MongoDB.
 <br/><br/>
 <img width="1440" alt="Screenshot 2024-04-03 at 11 00 49 AM" src="https://github.com/manos96n-dev/expenses-netlify-app/assets/76110584/a8c93d59-24d3-4646-a1a4-08010657acd4">
 <br/>
